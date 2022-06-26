@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\bin\Debug\net6.0\Example003_sum.exe
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\bin\Debug\net6.0\Example003_sum.deps.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\bin\Debug\net6.0\Example003_sum.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\bin\Debug\net6.0\Example003_sum.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\bin\Debug\net6.0\Example003_sum.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\refint\Example003_sum.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\Example003_sum.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\Lections\Lection1\Example003_sum\obj\Debug\net6.0\ref\Example003_sum.dll
